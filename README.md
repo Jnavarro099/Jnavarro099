@@ -1,4 +1,4 @@
-## Hi there 👋 Comerme los huevos
+## Hi there 👋
 
 <!--
 **Jnavarro099/Jnavarro099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
